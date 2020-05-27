@@ -102,5 +102,5 @@ bool BST::isEmpty() {
 
 
 void BST::print() {
-	cout << "Δεπεβξ: " << ' '; preorder(Root); cout << endl;
+	cout << "Π”ΠµΡ€ΠµΠ²ΠΎ: " << ' '; preorder(Root); cout << endl;
 }
